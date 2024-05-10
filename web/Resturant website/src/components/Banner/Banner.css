@@ -1,0 +1,17 @@
+.banner img{
+    width: 100%;
+    height: 550px;
+}
+div.banner{
+    position: relative;
+    
+  }
+  
+ div.relative{
+    position: absolute;
+    top: 250px;
+    left: 40px;
+    color: white;
+    
+  }
+  

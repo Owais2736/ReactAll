@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Helvetica, sans-serif;
+}
+.button{
+    background-color:darkgrey;
+    color: white;
+    width: 200px;
+    border-radius: 5px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+  }
+
+.button:hover{
+    color: rgb(153, 153, 243);
+    border: 1px solid  rgb(153, 153, 243);
+    background-color: white;
+}
+
+  .nav li:hover{
+    color: brown;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
+
